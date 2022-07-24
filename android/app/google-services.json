@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "9831044188",
+    "project_id": "rekrutmenpolri-9e6a5",
+    "storage_bucket": "rekrutmenpolri-9e6a5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:9831044188:android:076d019b44be1c7614c299",
+        "android_client_info": {
+          "package_name": "com.example.rekrutmentpolri"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "9831044188-ifs16sus4ff8uigvllg0s0bcbgt6ouh4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZjQWzC1DL39dZd7uDdCwTqyxxztVoPCQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "9831044188-ifs16sus4ff8uigvllg0s0bcbgt6ouh4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
