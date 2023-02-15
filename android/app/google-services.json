@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "690665595067",
+    "project_id": "recruitment-polri",
+    "storage_bucket": "recruitment-polri.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:690665595067:android:cbcaa631b6e90fbae2499e",
+        "android_client_info": {
+          "package_name": "com.example.rekrutmentpolri"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "690665595067-ho8bd64ns0tbvqeid81oeblhapdlc8hv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBl3PLnwHnuNIRJJyDnxKsBCj0nOEG0TG0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "690665595067-ho8bd64ns0tbvqeid81oeblhapdlc8hv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
